@@ -1,18 +1,1 @@
-{"@context": ["https://www.w3.org/2018/credentials/v1", "https://w3id.org/blockcerts/v3"], "id":
-"urn:uuid:bbba8553-8ec1-445f-82c9-a57251dd731c", "type": ["VerifiableCredential", "BlockcertsCredential"], "issuer":
-"https://raw.githubusercontent.com/davidkathoh/Blockcerts/main/issuer.json", "issuanceDate": "2022-08-18T14:04:24Z",
-"credentialSubject": {"id": "did:example:ebfeb1f712ebc6f1c276e12ec21", "name": "David MUmbere Kathoheryo", "email":
-"julien.fraichot@hyland.com", "publicKey": "ecdsa-koblitz-pubkey:0x80E13b8A195a8F0a26B9031E7D75AFd745013AbE"},
-"display": {"contentMediaType": "text/html", "content": "<div style=\"width:800px; height:600px; padding:20px;
-	text-align:center; border: 10px solid #787878\">
-	<div style=\"width:750px; height:550px; padding:20px; text-align:center; border: 5px solid #787878\">
-		<span style=\"font-size:50px; font-weight:bold\">Certificate of Completion</span> <br><br>
-		<span style=\"font-size:25px\"><i>This is to certify that</i></span> <br><br>
-		<span style=\"font-size:30px\"><b>David Kathoh</b></span><br/><br/>
-		<span style=\"font-size:25px\"><i>has completed the course</i></span> <br/><br/>
-		<span style=\"font-size:30px\">Crypro 101</span> <br/><br/> <span style=\"font-size:20px\">with score of </span>
-		<br/><br/><br/><br/> <span style=\"font-size:25px\"><i>dated</i></span><br>
-		<span style=\"font-size:30px\">Mumbere</span> </div>
-</div>"}, "proof": {"type": "MerkleProof2019", "created": "2023-11-27T22:19:44.543510", "proofValue":
-"znKD4YGVqA8textvDnMMC5qHLUyQ7cBN1RLzxskMBAS3Qf5vr18Hftd62HrW4G43BetzqRiArkw3ENwJkpq4v3QEw6XkbtTAzUiKzQXLGGUyvW8f1qG1jjtp4VfZJ7DcEswVpaL6QznFvsTi7Kfdv5EojRBiv3y15sRvst8vtvm83ZCLgvCPpiHGJRSBi5mHSo2NmwhnuNQexPKAhPUENvsvun6iEfXckaEXQjmBoWvoBqoMuGwReM9a6LxME5wCeFKgXpU5ospJrdGhshGesWLfaPHi5UFF8MrrEM5abnGvDpcnkn4exe4K4e8",
-"proofPurpose": "assertionMethod", "verificationMethod": null}}
+{"@context": ["https://www.w3.org/2018/credentials/v1", "https://w3id.org/blockcerts/v3"], "id": "urn:uuid:bbba8553-8ec1-445f-82c9-a57251dd731c", "type": ["VerifiableCredential", "BlockcertsCredential"], "issuer": "https://raw.githubusercontent.com/davidkathoh/Blockcerts/main/issuer.json", "issuanceDate": "2022-08-18T14:04:24Z", "credentialSubject": {"id": "did:example:ebfeb1f712ebc6f1c276e12ec21", "name": "David MUmbere Kathoheryo", "email": "julien.fraichot@hyland.com", "publicKey": "ecdsa-koblitz-pubkey:0x80E13b8A195a8F0a26B9031E7D75AFd745013AbE"}, "display": {"contentMediaType": "text/html", "content": "<div style=\"width:800px; height:600px; padding:20px; text-align:center; border: 10px solid #787878\"> <div style=\"width:750px; height:550px; padding:20px; text-align:center; border: 5px solid #787878\">  <span style=\"font-size:50px; font-weight:bold\">Certificate of Completion</span> <br><br>   <span style=\"font-size:25px\"><i>This is to certify that</i></span>  <br><br> <span style=\"font-size:30px\"><b>David Kathoh</b></span><br/><br/> <span style=\"font-size:25px\"><i>has completed the course</i></span> <br/><br/>  <span style=\"font-size:30px\">Crypro 101</span> <br/><br/>  <span style=\"font-size:20px\">with score of </span> <br/><br/><br/><br/> <span style=\"font-size:25px\"><i>dated</i></span><br> <span style=\"font-size:30px\">Mumbere</span> </div></div>"}, "proof": {"type": "MerkleProof2019", "created": "2023-11-27T22:19:44.543510", "proofValue": "znKD4YGVqA8textvDnMMC5qHLUyQ7cBN1RLzxskMBAS3Qf5vr18Hftd62HrW4G43BetzqRiArkw3ENwJkpq4v3QEw6XkbtTAzUiKzQXLGGUyvW8f1qG1jjtp4VfZJ7DcEswVpaL6QznFvsTi7Kfdv5EojRBiv3y15sRvst8vtvm83ZCLgvCPpiHGJRSBi5mHSo2NmwhnuNQexPKAhPUENvsvun6iEfXckaEXQjmBoWvoBqoMuGwReM9a6LxME5wCeFKgXpU5ospJrdGhshGesWLfaPHi5UFF8MrrEM5abnGvDpcnkn4exe4K4e8", "proofPurpose": "assertionMethod", "verificationMethod": null}}
