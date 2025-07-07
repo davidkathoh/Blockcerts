@@ -9,7 +9,7 @@
   "url": "https://www.issuer.org",
   "introductionURL": "https://www.issuer.org/intro/",
   "publicKey": [{
-    "id": "ecdsa-koblitz-pubkey:0x36e0442dbca3bFDd7fccfa57d65A58819bF7BE7A",
+    "id": "ecdsa-koblitz-pubkey:0x36e0442dbca3bFDd7fccfa57d65A58819bF7BE7B",
     "created": "2017-06-29T14:48:03.814936+00:00"
   }],
   "revocationList": "https://raw.githubusercontent.com/davidkathoh/Blockcerts/main/revocation-list.json",
